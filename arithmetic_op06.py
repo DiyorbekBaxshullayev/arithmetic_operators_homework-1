@@ -7,3 +7,9 @@
 #Print the answer.
  
 #Print the number.
+
+number =5
+number =number/2
+answer =number%1
+print (answer)
+print (number)
